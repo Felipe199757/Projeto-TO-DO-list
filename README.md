@@ -3,28 +3,6 @@
 Aplicação de **gerenciamento de tarefas** (To-Do List) em **Java**, com **persistência em arquivo** via serialização e arquitetura em camadas seguindo **SOLID** (SRP e DIP, principalmente).
 ---
 
-## 📂 Estrutura de Pastas
-
-src/
-└── com/
-└── example/
-├── Main.java
-│
-├── model/
-│ └── Tarefa.java
-│
-├── repository/
-│ ├── TarefaRepository.java
-│ └── FileTarefaRepository.java
-│
-├── service/
-│ └── TarefaService.java
-│
-└── util/
-└── AppendableObjectOutputStream.java
-
----
-
 ## 🚀 Funcionalidades
 
 - Adicionar tarefa (título, descrição, status padrão **PENDENTE**)
