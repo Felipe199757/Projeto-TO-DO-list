@@ -1,0 +1,8 @@
+com\example\Model\Tarefa$Status.class
+com\example\App.class
+com\example\Model\Tarefa.class
+com\example\Repository\TarefaRepository.class
+com\example\Service\TarefaService.class
+com\example\Util\AppendableObjectOutputStream.class
+com\example\GerenciadorTarefa.class
+com\example\Repository\FileTarefaRepository.class
